@@ -1,16 +1,16 @@
 
-<h1 align="left">👋 Hi, I'm Sarath !</h1>
+<h1 align="left">👋 Hi, I'm Sarath </h1>
 
 <div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-🚀 **Computer Engineer** | 💻 **Software Developer**  
-Experienced in **Python, Java, Dart, C, C++** and frameworks **Django, Flutter, HTML**
+🚀 Computer Engineer | 💻 Software Developer 
+Experienced in Python, Java, Dart, C, C++ and frameworks Django, Flutter, HTML
 
 ---
 
 ## 🌟 About Me
-<p align="left">I'm Sarath from India <br><br>- 📚 I'm currently learning **React**, **Docker**, and improving my skills in **Data Structures & Algorithms**.<br>-⚡ In my free time, I enjoy building side projects, watching tech YouTube channels, exploring UI/UX design. 
+<p align="left">I'm Sarath from India <br><br>- 📚 I'm currently learning React, Docker, and improving my skills in Data Structures & Algorithms.<br>-⚡ In my free time, I enjoy building side projects, watching tech YouTube channels, exploring UI/UX design. 
 <br>- 🔭 I'm currently not working, but actively building personal projects, enhancing my skills, and exploring new technologies.
  </p>
 
